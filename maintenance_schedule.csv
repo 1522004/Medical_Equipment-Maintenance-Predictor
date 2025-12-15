@@ -1,0 +1,2 @@
+equipment_id,priority,scheduled_date,days_to_failure,predicted_failure_prob
+EQ-01,Routine,2025-12-15 01:23:37.946544,35,0.24
